@@ -1,0 +1,80 @@
+[
+  {
+    "attrName": "容量",
+    "attrType": "3",
+    "id": 2431461,
+    "securityMap": {
+
+    },
+    "valueList": [
+      {
+        "attributeDesc": "",
+        "attributeId": 2431461,
+        "attributeValue": "18.9L",
+        "id": 2431501
+      },
+      {
+        "attributeDesc": "",
+        "attributeId": 2431461,
+        "attributeValue": "6.8L",
+        "id": 2431502
+      },
+      {
+        "attributeDesc": "",
+        "attributeId": 2431461,
+        "attributeValue": "4.9L",
+        "id": 2431503
+      }
+    ]
+  },
+  {
+    "attrName": "类别",
+    "attrType": "3",
+    "id": 2431961,
+    "securityMap": {
+
+    },
+    "valueList": [
+      {
+        "attributeDesc": "",
+        "attributeId": 2431961,
+        "attributeValue": "矿泉水",
+        "id": 2431981
+      },
+      {
+        "attributeDesc": "",
+        "attributeId": 2431961,
+        "attributeValue": "蒸馏水",
+        "id": 2431982
+      },
+      {
+        "attributeDesc": "",
+        "attributeId": 2431961,
+        "attributeValue": "纯净水",
+        "id": 2431983
+      }
+    ]
+  },
+  {
+    "attrName": "包装",
+    "attrType": "3",
+    "id": 2431962,
+    "securityMap": {
+
+    },
+    "valueList": [
+      {
+        "attributeDesc": "",
+        "attributeId": 2431962,
+        "attributeValue": "散装",
+        "id": 2431991
+      },
+      {
+        "attributeDesc": "",
+        "attributeId": 2431962,
+        "attributeValue": "桶装",
+        "id": 2431992
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <!--红色文字-->
+    <color name="red_txt_color">#f03059</color>
+    <!--黑色文字-->
+    <color name="black_txt_color">#141414</color>
+    <!--灰色文字-->
+    <color name="grey_txt_color">#9ea3a6</color>
+
+</resources>

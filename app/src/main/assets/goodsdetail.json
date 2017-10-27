@@ -1,0 +1,236 @@
+{
+  "firstSku": {
+    "alias": "怡宝桶装水",
+    "costPrice": 6.00,
+    "discount": 10,
+    "goodsAttr": "容量:4.9L; 类别:纯净水",
+    "goodsId": 2432001,
+    "id": 2432028,
+    "imageUrl": "image/C7AA45E6-08E0-0001-11CF-159565E72930",
+    "marketPrice": 8.00,
+    "phoneNum": "13523252627",
+    "price": 7.00,
+    "sellingPrice": 8.00,
+    "storeGoodsId": 2433605,
+    "storeId": 2433441,
+    "supplyPeriod": 1
+  },
+  "firstSkuList": [
+    {
+      "alias": "怡宝桶装水",
+      "attributes": [
+        {
+          "attributeId": 2431461,
+          "attributeValId": 2431503,
+          "id": 2432055,
+          "skuGoodsId": 2432028
+        },
+        {
+          "attributeId": 2431961,
+          "attributeValId": 2431983,
+          "id": 2432056,
+          "skuGoodsId": 2432028
+        },
+        {
+          "attributeId": 2431962,
+          "attributeValId": 2431991,
+          "id": 2432066,
+          "skuGoodsId": 2432028
+        }
+      ],
+      "costPrice": 6.00,
+      "discount": 10,
+      "goodsAttr": "容量:4.9L; 类别:纯净水",
+      "goodsId": 2432001,
+      "id": 2432028,
+      "imageUrl": "image/C7AA45E6-08E0-0001-11CF-159565E72930",
+      "marketPrice": 8.00,
+      "price": 7.00,
+      "sellingPrice": 8.00,
+      "storeGoodsId": 2433605,
+      "storeId": 2433441,
+      "supplyPeriod": 1
+    },
+    {
+      "alias": "怡宝桶装水",
+      "attributes": [
+        {
+          "attributeId": 2431461,
+          "attributeValId": 2431503,
+          "id": 2432057,
+          "skuGoodsId": 2432029
+        },
+        {
+          "attributeId": 2431961,
+          "attributeValId": 2431982,
+          "id": 2432058,
+          "skuGoodsId": 2432029
+        },
+        {
+          "attributeId": 2431962,
+          "attributeValId": 2431991,
+          "id": 2432066,
+          "skuGoodsId": 2432028
+        }
+      ],
+      "costPrice": 7.00,
+      "discount": 10,
+      "goodsAttr": "容量:4.9L; 类别:蒸馏水",
+      "goodsId": 2432001,
+      "id": 2432029,
+      "imageUrl": "image/C7AA45E6-F450-0001-DD21-EEA2155919DF",
+      "marketPrice": 9.00,
+      "price": 8.00,
+      "sellingPrice": 9.00,
+      "storeGoodsId": 2435104,
+      "storeId": 2433441,
+      "supplyPeriod": 1
+    },
+    {
+      "alias": "怡宝桶装水",
+      "attributes": [
+        {
+          "attributeId": 2431461,
+          "attributeValId": 2431502,
+          "id": 2432045,
+          "skuGoodsId": 2432023
+        },
+        {
+          "attributeId": 2431961,
+          "attributeValId": 2431982,
+          "id": 2432046,
+          "skuGoodsId": 2432023
+        },
+        {
+          "attributeId": 2431962,
+          "attributeValId": 2431991,
+          "id": 2432066,
+          "skuGoodsId": 2432028
+        }
+      ],
+      "costPrice": 10.00,
+      "discount": 10,
+      "goodsAttr": "容量:6.8L; 类别:蒸馏水",
+      "goodsId": 2432001,
+      "id": 2432023,
+      "imageUrl": "image/C7AA45DF-B990-0001-2974-B02012701D4E",
+      "marketPrice": 13.00,
+      "price": 13.00,
+      "sellingPrice": 13.00,
+      "storeGoodsId": 2435102,
+      "storeId": 2433441,
+      "supplyPeriod": 1
+    },
+    {
+      "alias": "怡宝桶装水",
+      "attributes": [
+        {
+          "attributeId": 2431461,
+          "attributeValId": 2431502,
+          "id": 2432041,
+          "skuGoodsId": 2432021
+        },
+        {
+          "attributeId": 2431961,
+          "attributeValId": 2431981,
+          "id": 2432042,
+          "skuGoodsId": 2432021
+        },
+        {
+          "attributeId": 2431962,
+          "attributeValId": 2431991,
+          "id": 2432066,
+          "skuGoodsId": 2432028
+        }
+      ],
+      "costPrice": 12.00,
+      "discount": 10,
+      "goodsAttr": "容量:6.8L; 类别:矿泉水",
+      "goodsId": 2432001,
+      "id": 2432021,
+      "imageUrl": "image/C7AA45DD-6770-0001-EF72-E326134B6AD0",
+      "marketPrice": 15.00,
+      "price": 14.00,
+      "sellingPrice": 15.00,
+      "storeGoodsId": 2435101,
+      "storeId": 2433441,
+      "supplyPeriod": 1
+    },
+    {
+      "alias": "怡宝桶装水",
+      "attributes": [
+        {
+          "attributeId": 2431461,
+          "attributeValId": 2431501,
+          "id": 2432049,
+          "skuGoodsId": 2432025
+        },
+        {
+          "attributeId": 2431961,
+          "attributeValId": 2431983,
+          "id": 2432050,
+          "skuGoodsId": 2432025
+        },
+        {
+          "attributeId": 2431962,
+          "attributeValId": 2431992,
+          "id": 2432066,
+          "skuGoodsId": 2432028
+        }
+      ],
+      "costPrice": 16.00,
+      "discount": 10,
+      "goodsAttr": "容量:18.9L; 类别:纯净水",
+      "goodsId": 2432001,
+      "id": 2432025,
+      "imageUrl": "image/C7AA45E2-0CB0-0001-315D-130518785CD0",
+      "marketPrice": 22.00,
+      "price": 20.00,
+      "sellingPrice": 22.00,
+      "storeGoodsId": 2435103,
+      "storeId": 2433441,
+      "supplyPeriod": 1
+    }
+  ],
+  "goods": {
+    "attrNames": "容量 类别",
+    "brandId": 2431401,
+    "brandName": "怡宝",
+    "createdBy": 40,
+    "creationDate": 1504240178000,
+    "details": "<p>怡宝桶装水&nbsp;商品详情描述</p>",
+    "firstLevelCategoryId": 2431381,
+    "goodsName": "怡宝桶装水[请别修改]",
+    "id": 2432001,
+    "inventory": 999,
+    "isParts": 0,
+    "lastUpdateDate": 1504600955000,
+    "lastUpdatedBy": 40,
+    "minOrderQuantity": 1,
+    "multiDelivery": 1,
+    "owCity": 1,
+    "priceUnit": "13",
+    "publicityPicPath": "image/C7AA4615-8960-0001-7046-8AC0E5BE1DA8",
+    "resume": "怡宝桶装水 商品简介",
+    "secondLevelCategoryId": 2431382,
+    "serialNumber": "SPC20170901122936882",
+    "status": 1,
+    "supplierId": 2222081,
+    "thirdLevelCategoryId": 2431383,
+    "type": "01",
+    "url": "",
+    "voidFlag": 1
+  },
+  "pictures": [
+    {
+      "goodsId": 2432001,
+      "id": 212400,
+      "picUrl": "image/C7AA4616-9D00-0001-8087-84C42B6F44A0"
+    },
+    {
+      "goodsId": 2432001,
+      "id": 212401,
+      "picUrl": "image/C7AA4617-C2B0-0001-2418-16A015001010"
+    }
+  ]
+}
