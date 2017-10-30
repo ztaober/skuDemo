@@ -100,9 +100,9 @@ public class SkuAdapter extends BaseQuickAdapter<AttrList, BaseViewHolder> {
         //当前行可以选择的商品id属性集合 用set去重 增加效率
         Set<Integer> enableIds = new HashSet<>();
         for (SkuBean skuBean : skuBeanList) {
-            boolean enable = true;
+            boolean is = true;
             for (Attr attr : attrsOtherSelect) {
-                enable = false;
+                boolean enable = false;//判断有没这个选中的规格
                 for (GoodAttrBean goodAttrBean : skuBean.attributes) {
                     /**
                      * attr 选中属性  goodAttrBean 商品的属性
@@ -113,9 +113,10 @@ public class SkuAdapter extends BaseQuickAdapter<AttrList, BaseViewHolder> {
                         break;
                     }
                 }
+               is = enable && is;
             }
-            //enable为true 代表此商品可选
-            if (enable) {
+            //is为true 代表此商品可选
+            if (is) {
                 for (GoodAttrBean goodAttrBean : skuBean.attributes) {
                     //把当前行的所有可选属性插入
                     if (item.id == goodAttrBean.attributeId)
